@@ -1,5 +1,8 @@
-# Tripgenie-management-system
-TripGenie – A travel booking and management application built using Python, Tkinter, and MySQL.
+# Tripgenie-management System
+TripGenie is a travel booking and management desktop application built using Python, Tkinter, and MySQL.  
+It helps manage hotel, transport, and place bookings along with feedback and complaints.
+
+
 =====Features=====
 - Hotel Booking System
 - Transport Booking System
@@ -11,8 +14,8 @@ TripGenie – A travel booking and management application built using Python, Tk
 =====Tech Stack=====
 - Python 
 - Tkinter (GUI)
-- MySQL (Database)
-- SQL (Queries & Database Operations)
+- MySQL (Database)  
+- SQL (Database queries & operations)  
 
 
 =====Database Setup=====
