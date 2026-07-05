@@ -1,13 +1,4 @@
-"""
-TripGenie - Premium Travel Booking GUI
-Built with Python Tkinter
-Author: (Connect to your existing backend/MySQL later)
-
-STRUCTURE:
-- App class: Root window, sidebar, page container
-- Each page is a Frame subclass
-- Sidebar navigation switches between pages
-"""
+#tripgenie gui built by using tkinter
 
 import tkinter as tk
 from tkinter import ttk, messagebox, font
@@ -19,7 +10,7 @@ import pymysql
 db = pymysql.connect(
     host="localhost",
     user="root",
-    password="Harman@03",
+    password="Yourpassword",
     database="TripGenie"
 )
 
