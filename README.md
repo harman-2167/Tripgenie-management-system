@@ -31,4 +31,5 @@ password="YOUR_MYSQL_PASSWORD"
 database="tripgenie'''
 
 =========author==========
+
 Harmandeep kaur
