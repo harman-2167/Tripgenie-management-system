@@ -23,8 +23,12 @@ It helps manage hotel, transport, and place bookings along with feedback and com
 2. Import `Trip_genie.sql` file
 3. Run the database script
 4. Update your MySQL credentials in the Python code:
-```python
+   
+'''python
 host="localhost"
 user="root"
 password="YOUR_MYSQL_PASSWORD"
-database="tripgenie
+database="tripgenie'''
+
+=========author==========
+Harmandeep kaur
