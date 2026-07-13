@@ -3,7 +3,7 @@ TripGenie is a travel booking and management desktop application built using Pyt
 It helps manage hotel, transport, and place bookings along with feedback and complaints.
 
 
-=====Features=====
+## Features
 - Hotel Booking System
 - Transport Booking System
 - Complaint & Feedback Module
@@ -11,14 +11,13 @@ It helps manage hotel, transport, and place bookings along with feedback and com
 - Region & Booking Management
 - User-friendly GUI Interface
 
-=====Tech Stack=====
+## Tech Stack
 - Python 
 - Tkinter (GUI)
 - MySQL (Database)  
 - SQL (Database queries & operations)  
 
-
-=====Database Setup=====
+## Database Setup
 1. Open MySQL Workbench
 2. Import `Trip_genie.sql` file
 3. Run the database script
